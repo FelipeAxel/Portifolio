@@ -1,0 +1,40 @@
+header{
+    background-color:var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.initial-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.initial-nav-content h1{
+margin: 0px;
+font-weight: 700;
+font-size: 24px;
+}
+
+.axel-contact-container{
+    display: flex;
+    align-items: center;
+}
+.axel-contact-link{
+    margin: 0 0 0 10px;
+    font-size: 12px;
+}
+.sobre-mim{
+    display: flex;
+    margin-bottom: -19px;
+}
+.sobre-mim-link{
+    margin: 0px;
+    align-items: center;
+}
+span{
+    margin-bottom: -35px;
+    margin-left: -227px;
+}
+.contact-link{
+    margin-bottom: 0px;
+}
